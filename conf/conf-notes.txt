@@ -1,7 +1,7 @@
 Supported targets:
-    docker-image
+    aero-docker-image
 
 Now type
-    bitbake docker-image
+    bitbake aero-docker-image
 
 To build the final image
